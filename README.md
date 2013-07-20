@@ -9,16 +9,22 @@ tailina84.github.com
     <body>
         <h1 style="color:red">姓名：吕延军</h>
         <p>年龄：27；籍贯：河北；出生日期：19860823</p>
-        
-        <table border="1">
+        <table>
+           
             <tr>
-            <td>row 1, cell 1</td>
-            <td>row 1, cell 2</td>
+                <th>姓名</th>
+                <th>性别</th>
+                <th>爱好</th>
+                <th>自我评价</th>
             </tr>
-            <tr>
-            <td>row 2, cell 1</td>
-            <td>row 2, cell 2</td>
+             <tr>
+                <th>吕延军</th>
+                <th>男</th>
+                <th>乒乓球</th>
+                <th>随和</th>
             </tr>
         </table>
+        
+       
     </body>
-</html
+</html>
