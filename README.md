@@ -7,7 +7,7 @@ tailina84.github.com
         <title>个人艺术网〈/title>
     </head>
     <body>
-        <h1 style="color:red">姓名：吕延军</h>
+        <h1 style="color: red;">姓名：吕延军</h>
         <p>年龄：27；籍贯：河北；出生日期：19860823</p>
         <table>
             <tr>
@@ -23,6 +23,5 @@ tailina84.github.com
                 <th>随和</th>
             </tr>
         </table>
-     
-    </body>
+     </body>
 </html>
