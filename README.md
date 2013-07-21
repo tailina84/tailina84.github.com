@@ -4,7 +4,7 @@ tailina84.github.com
 <html>  
     <head>
         <meta charset="UTF-8">
-        <title>个人艺术网〈/title>
+        <title>个人艺术网</title>
     </head>
     <body>
         <h1 style="color: red;">姓名：吕延军</h>
