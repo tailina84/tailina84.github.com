@@ -1,6 +1,6 @@
 tailina84.github.com
 ====================
-<!doctype html>
+
 <html>  
     <head>
         <meta charset="UTF-8">
