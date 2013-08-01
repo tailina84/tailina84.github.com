@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+}
+bode{
+    font size:14px;
+}
+#chear{
+    clear:both;
+}
+#title{
+    background: url("../image/bg_main_decor.jpg");
+    height: 85px;
+}
+.t1{
+
+    width:984px;
+    height: 85px;
+    margin:auto;
+
+
+}
+.tt1{
+    background: url("../image/logoJB.svg");
+    width:200px;
+    height: 85px;
+    float: left;
+    background-position: 0px 0.5em;
+}
+.tt2{
+    width:784px;
+    height:85px;
+
+    float: right;
+}
+.li{
+    font-family: Open Sans;
+    font-size:16px;
+    font-color: #757574;
+}
+#header{
+    background: url("../image/bg_main_decor.jpg");
+
+
+    height:573px;
+    position: relative;
+    z-index: 10;
+    border-style:;
+    border-bottom: 2px solid gray;
+
+
+}
+.h1{
+    background: url("../image/banner_tc8_index.png");
+    background-repeat: no-repeat;
+    width:984px;
+    height: 573px;
+    margin: auto;
+
+
+
+
+
+}
+.title{
+    height: 85px;
+    padding: 4px;
+
+}
+#product{
+    height:500px;
+}
+.p1{
+
+}
+#news{
+    background: #F2F1F2;
+    height:190px;
+}
+#category{
+    background: url("../image/t0n09zb2.bmp");
+    height: 572px;
+}
+#achievement{
+    background: url("../image/3whjg924.bmp");
+    height:589px;
+}
+#footer{
+    background:url("../image/t0n09zb2.bmp");
+    height:251px
+}
