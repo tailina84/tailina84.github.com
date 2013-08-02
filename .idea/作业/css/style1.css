@@ -5,7 +5,7 @@ body{
     font-size:14px;
 
 }
-#chear{
+.chear{
     clear:both;
 }
 #title{
@@ -100,7 +100,6 @@ der{
 }
 
 .m1{
-
     width:81px;
     height: 28px;
     float: left;
@@ -109,8 +108,6 @@ der{
     list-style: none;
     color:#757574;
     text-decoration:none;
-
-
 }
 .m2{
     width:114px;
@@ -131,6 +128,7 @@ der{
 .f1{
     width:354px;
     height: 407px;
+    float: left;
 }
 .name{
     width:354px;
@@ -167,6 +165,7 @@ der{
     text-align: left;
     font-weight: 400;
 }
+
 .more{
     width:40px;
     height: 21px;
@@ -176,9 +175,9 @@ der{
     float: left;
     font-family: 'Open Sans',Helvetica,Arial,sans-serif;
     font-size: 13px;
-    color:white;
-    text-decoration: none;
     background-color:cornflowerblue;
+    border-radius:5px;
+    color:white;
 }
 .buttom{
     width:108px;
@@ -189,8 +188,10 @@ der{
     float: left;
     font-family: 'Open Sans',Helvetica,Arial,sans-serif;
     font-size: 13px;
-    text-decoration: none;
     background-color:cornflowerblue;
+    border-radius:5px;
+    color:white;
+
 }
 .x1{
     width:354px;
@@ -236,29 +237,226 @@ der{
     float: left;
     font-family: 'Open Sans',Helvetica,Arial,sans-serif;
     font-size: 13px;
-    color:white;
-    text-decoration: none;
+    border-radius:5px;
     background-color:cornflowerblue;
+    color:white;
 }
 
 .f2{
     width:354px;
     height: 407px;
+    float: left;
     margin-left: 19px;
 }
+.cen1{
+    width:354px;
+    height: 45px;
+    margin:7px 0 8px 0;
+}
+.cen1 .a1 {
+    width:290px;
+    height: 45px;
+
+    float: right;
+    font-family:'Open Sans',​Helvetica,​Arial,​sans-serif;
+    font-size: 31px;
+    color: #474747;
+}
+.cen1 .tp1{
+    width:64px;
+    height: 64px;
+    margin:-7px 0px -12px 0px;
+    background: url("../image/QQ图片20130802103859.jpg");
+    float: left;
+}
+.dl1{
+    width:354px;
+    height: 42px;
+    margin: 20px 0 20px 0;
+    font-family:'Open Sans',​Helvetica,​Arial,​sans-serif;
+    font-size:13px;
+    font-color:#474747
+
+}
+.but1{
+    background-color:cornflowerblue;
+    border-radius:5px;
+    width:41px;
+    height: 21px;
+    margin:0 14px 55px 0px;
+    padding:6px 16px;
+    font-family: 'Open Sans',​Helvetica,​Arial,​sans-serif;
+    font-size: 13px;
+    text-decoration:none;
+    color:white;
+}
+.cen2{
+    width:354px;
+    height: 45px;
+    margin:50px 0 8px 0;
+}
+.cen2 .tp2{
+    width:64px;
+    height: 64px;
+    margin:-7px 0px -12px 0px;
+    background: url("../image/QQ图片20130802120913.jpg");
+    float: left;
+}
+.cen2 .a2{
+    width:290px;
+    height: 45px;
+    float: right;
+    font-family:'Open Sans',​Helvetica,​Arial,​sans-serif;
+    font-size: 31px;
+    color: #474747;
+}
+.dl2{
+    width:354px;
+    height: 42px;
+    margin: 20px 0 20px 0;
+    font-family:'Open Sans',​Helvetica,​Arial,​sans-serif;
+    font-size:13px;
+    font-color:#474747
+}
+.but2{
+    background-color:cornflowerblue;
+    border-radius:5px;
+    width:41px;
+    height: 21px;
+    margin:0 14px 55px 0px;
+    padding:6px 16px;
+    font-family: 'Open Sans',​Helvetica,​Arial,​sans-serif;
+    font-size: 13px;
+    text-decoration:none;
+    color:white;
+}
 .f3{
+    background:url("../image/index_product_banner_yt.png");
     width:198px;
     height:279px;
     border-width: 2px;
-    margin-left: -29px;
+    border-style:dashed;
+    border-color:gray;
+    border-radius:10px;
     padding:32px 19px 38px;
+    margin-left: 15px;
+    float: left;
+    background-repeat: no-repeat;
 }
+.header{
+    width:197px;
+    height: 55px;
+    margin-bottom: 15px;
+}
+.hd1{
+    width:196px;
+    height: 45px;
+    font-family:'Open Sans',​Helvetica,​Arial,​sans-serif;
+    font-size: 35.2px;
+    text-decoration:none;
+}
+.hd1 a:link{
+    text-decoration:none;
+    display: block;
+    color: black;
+}
+.hd2{
+    width:196px;
+    height: 25px;
+    font-family:'Open Sans',​Helvetica,​Arial,​sans-serif;
+    font-size: 13px;
+}
+.element{
+    width:177px;
+    height: 151px;
+    padding-right: 20px;
+    margin-bottom: 20px;
+
+}
+.dl3{
+    width:197px;
+    height: 18px;
+    margin-bottom:10px;
+}
+a{
+    text-decoration: none;
+    font-family: 'Open Sans',​Helvetica,​Arial,​sans-serif ;
+
+
+}
+a:link{
+    color:#474747;
+}
+
 #news{
-    background: #F2F1F2;
+    background:#F2F1F2;
+    width:1263px;
     height:190px;
+    border-width: 2px 0px;
+    border-style:solid;
+    border-color:gray;
+}
+.news0{
+    width:984px;
+    height: 170px;
+    margin:auto;
+}
+.news1{
+    width:40px;
+    height:170px;
+    padding-left:246px;
+    margin-bottom: 20px;
+    background-image:url("../image/bgNewsIndex.png");
+    float: left;
+    background-repeat: no-repeat;
+}
+.news2{
+    width:295px;
+    height: 117px;
+    padding-top: 29px;
+    margin-left: 60px;
+    float: left;
+}
+.zt1{
+    width:295px;
+    height: 33px;
+    margin-bottom: 7px;
+    font-family:'Open Sans',​Helvetica,​Arial,​sans-serif ;
+    font-size: 20.7833px;
+    float: left;
+    color:#474747;
+}
+p{
+    font-family: 'Open Sans',​Helvetica,​Arial,​sans-serif;
+    font-size: 14.85px;
+    color:#474747;
+}
+.zt2{
+    font-size: 14.85px;
+    margin-top:4px;
+}
+.news3{
+    width:295px;
+    height: 117px;
+    padding-top: 29px;
+    margin-left: 20px;
+    float: right;
+}
+.zt3{
+    width:295px;
+    height: 33px;
+    margin-bottom: 7px;
+    font-family:'Open Sans',​Helvetica,​Arial,​sans-serif ;
+    font-size: 20.7833px;
+    float: left;
+    color:#474747;
+}
+.zt4{
+    font-size: 14.85px;
+    margin-top:4px;
 }
 #category{
-    background: url("../image/t0n09zb2.bmp");
+    background: url("../image/bg_main_lab.jpg");
     height: 572px;
 }
 #achievement{
