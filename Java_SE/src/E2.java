@@ -1,3 +1,5 @@
+import com.sun.org.apache.xerces.internal.impl.msg.XMLMessageFormatter_ja;
+
 /**
  * Created by tln on 13-8-5.
  */
@@ -5,17 +7,19 @@
 public class E2 {
     public static void main(String[] args) {
         int couter = 0;
-        for (int i = 101; i < 201; i++) {
-            int j;
+        for (int i =101; i <201 ; i++) {
+            int j = 2;
             for (j = 2; j < i/2+1; j++) {
-                if (i%j==0) {
+                if(i % j == 0){
                     break;
                 }
+
             }
-            if (j == (i/2 + 1)) {
+
+            if (j ==(i/2+1)){
                 System.out.println(i);
                 couter++;
-            }
+        }
         }
         System.out.println(couter);
     }
