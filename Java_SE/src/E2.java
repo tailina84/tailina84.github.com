@@ -9,7 +9,7 @@ public class E2 {
         int couter = 0;
         for (int i =101; i <201 ; i++) {
             int j = 2;
-            for (j = 2; j < i/2+1; j++) {
+            for (j = 2; j < i+1; j++) {
                 if(i % j == 0){
                     break;
                 }
